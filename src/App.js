@@ -1,6 +1,6 @@
 import Card from './Component/Card';
 import './App.css';
-import HomePage from './pages/HomePage';
+import HomePage from './pages/home/HomePage';
 
 function App() {
   return (
