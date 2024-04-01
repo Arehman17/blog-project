@@ -23,7 +23,7 @@ const CommentsContainer = ({ className, logginedUserId }) => {
       _id: Math.random().toString(),
       user: {
         _id: "a",
-        name: "Abdulrahman Mohd",
+        name: "Mohammad Rezaii",
       },
       desc: value,
       post: "1",

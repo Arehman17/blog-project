@@ -1,9 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import BreadCrumbs from "../../Component/BreadCrumbs";
-import CommentsContainer from "../../Component/comments/CommentsContainer";
-import MainLayout from "../../Component/MainLayout";
-import SocialShareButtons from "../../Component/SocialShareButtons";
+import BreadCrumbs from "../../components/BreadCrumbs";
+import CommentsContainer from "../../components/comments/CommentsContainer";
+import MainLayout from "../../components/MainLayout";
+import SocialShareButtons from "../../components/SocialShareButtons";
 import { images } from "../../constants";
 import SuggestedPosts from "./container/SuggestedPosts";
 
